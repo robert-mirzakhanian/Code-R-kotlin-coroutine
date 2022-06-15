@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+application:
+  decisionService: 'http://localhost:9001'
+  service1: 'http://localhost:9002'
+  service2: 'http://localhost:9002'
+  service3: 'http://localhost:9002'
